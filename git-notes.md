@@ -38,12 +38,31 @@ Ans Git pull is used when we wan to pull in any changes that have been made in t
 
 ### 8. Why do we raise PRs?
 Ans PRs are pull request.When we ahve made our changes and pushed it back into our repo. Click on Compare and pull request button or if it is not present then we can click on create new pull request and fill the required information that which is the base repo and what branch we want to pull.
-## Answer's
-9. We should always write commits in key-value pair where key will tell what we have changed and value will tell what feature or change we have done  and while name branches we can use the word fix and then give name to branches i.e fix/ branch name
-10. git branch <branch name> and git checkout<new branch name>
-11.git add remote add origin <URLfromgithub>
-12.git status and git log
-13.cd:-to change directory
-  ls:-list files
-  mkdir:-to make a directory
-  14.by pull method
+### 9. What are the best practices for naming branches and writing commits?
+Ans We should always write commits in key-value pair where key will tell what feature or change we have done  and while name branches we can use the word fix and then give name to branches i.e fix/ branch name
+
+### 10. Write git commands to create a new branch and switch to a different branch.
+  Ans git branch <branch name> and git checkout<new branch name>
+
+
+### 11. Can we add a new remote to our repo, if yes, what is the command?
+Ans   Yes,we can and the command is :-
+    git add remote add origin <URLfromgithub>
+
+
+### 12.Write git commands to view status of changes and the commit history.
+Ans  git status and git log
+
+
+### 13. List the basic linux commands that you learnt and write their uses.
+Ans cd:-to change directory
+    ls:-list files
+    mkdir:-to make a directory
+    touch :-to make file
+    :wq - to save and exit from vim 
+  
+### 14. How to sync your changes in local repository to remote one?
+Ans We can use pull command.
+  
+
+
