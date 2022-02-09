@@ -6,3 +6,5 @@
 12.git status and git log
 13.cd:-to change directory
   ls:-list files
+  mkdir:-to make a directory
+  14.by pull method
