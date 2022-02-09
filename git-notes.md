@@ -1,6 +1,7 @@
 <
 
 <!-- Write your notes here -->
+
 ### 1. What is a VCS and why is it needed?
 
 Version Control software (VCS) helps in tracking and managing the changes that occurs while developing the software.
@@ -37,3 +38,12 @@ Ans Git pull is used when we wan to pull in any changes that have been made in t
 
 ### 8. Why do we raise PRs?
 Ans PRs are pull request.When we ahve made our changes and pushed it back into our repo. Click on Compare and pull request button or if it is not present then we can click on create new pull request and fill the required information that which is the base repo and what branch we want to pull.
+## Answer's
+9. We should always write commits in key-value pair where key will tell what we have changed and value will tell what feature or change we have done  and while name branches we can use the word fix and then give name to branches i.e fix/ branch name
+10. git branch <branch name> and git checkout<new branch name>
+11.git add remote add origin <URLfromgithub>
+12.git status and git log
+13.cd:-to change directory
+  ls:-list files
+  mkdir:-to make a directory
+  14.by pull method
