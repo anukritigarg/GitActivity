@@ -14,17 +14,11 @@
 
 ## Questions
 
-1. What is a VCS and why is it needed?
-2. Whats is the difference between a forked repo and a cloned repo?
-3. Why do we create branches?
-4. What is the use of fork if we can create branches?
-5. Difference between Staged and unstaged changes?
-6. Difference between tracked and untracked files?
-7. How is git pull different from git fetch?
-8. Why do we raise PRs?
 9. What are the best practices for naming branches and writing commits?
 10. Write git commands to create a new branch and switch to a different branch.
 11. Can we add a new remote to our repo, if yes, what is the command?
 12. Write git commands to view status of changes and the commit history.
 13. List the basic linux commands that you learnt and write their uses.
 14. How to sync your changes in local repository to remote one?
+
+
