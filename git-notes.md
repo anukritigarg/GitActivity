@@ -1,4 +1,4 @@
-<!-- Write your notes here -->
+<
 Qs.5 What is the difference between staged and unstaged files?
 Ans Staged files are those which are present in the staging area. These are the files which will be commited to the repository.
 Unstaged files are those files which are not present in staging area that is git hasn't recorded it.
